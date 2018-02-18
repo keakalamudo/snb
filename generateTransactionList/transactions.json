@@ -1,0 +1,42 @@
+[
+    {
+        "id": "123456",
+        "date": "1518806543",
+        "postedDate": "1518806543",
+        "amount": 234.44,
+        "currencyCode": "CAD",
+        "summary": "Shoes",
+        "maskedAccountNumber": "2020332",
+        "merchantName": "ASOS"
+    },
+    {   
+        "id": "123456asdv",
+        "date": "1518806543",
+        "postedDate": "1518806543",
+        "amount": 9.15,
+        "currencyCode": "CAD",
+        "summary": "Groceries",
+        "maskedAccountNumber": "2020332a",
+        "merchantName": "IGA"
+    },
+    {
+        "id": "123456qqq",
+        "date": "1518806543",
+        "postedDate": "1518806543",
+        "amount": 51.59,
+        "currencyCode": "CAD",
+        "summary": "Clothing",
+        "maskedAccountNumber": "2020332b",
+        "merchantName": "Old Navy"
+    },
+    {
+        "id": "00917",
+        "date": "",
+        "postedDate": "",
+        "amount": 7.77,
+        "currencyCode": "CAD",
+        "summary": "Restaurants & Cafe",
+        "maskedAccountNumber": "2020332c",
+        "merchantName": "STARBUCKS"
+    }
+]
