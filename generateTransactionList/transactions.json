@@ -1,8 +1,8 @@
 [
     {
         "id": "123456",
-        "date": "1518806543",
-        "postedDate": "1518806543",
+        "date": "2015-01-28T21:17:00-05:00",
+        "postedDate": "2015-01-28T21:17:00-05:00",
         "amount": 234.44,
         "currencyCode": "CAD",
         "summary": "Shoes",
@@ -11,8 +11,8 @@
     },
     {   
         "id": "123456asdv",
-        "date": "1518806543",
-        "postedDate": "1518806543",
+        "date": "2015-01-28T21:17:00-05:00",
+        "postedDate": "2015-01-28T21:17:00-05:00",
         "amount": 9.15,
         "currencyCode": "CAD",
         "summary": "Groceries",
@@ -21,8 +21,8 @@
     },
     {
         "id": "123456qqq",
-        "date": "1518806543",
-        "postedDate": "1518806543",
+        "date": "2015-01-28T21:17:00-05:00",
+        "postedDate": "2015-01-28T21:17:00-05:00",
         "amount": 51.59,
         "currencyCode": "CAD",
         "summary": "Clothing",
